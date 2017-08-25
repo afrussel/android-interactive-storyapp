@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+//unresolved symbol 'r'
 import uk.co.jonniegrieve.newinteractivestory.R;
 
 public class MainActivity extends AppCompatActivity {
