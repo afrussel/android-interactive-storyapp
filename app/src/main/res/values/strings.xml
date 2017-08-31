@@ -5,7 +5,7 @@
     <string name="start_your_adventure">START YOUR ADVENTURE</string>
     <string name="enter_your_name">Enter your name....</string>
 
-    <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
+    <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \'Help me, %1$s, you\'re my only hope.\'</string>
     <string name="page0_choice1">Stop and investigate</string>
     <string name="page0_choice2">Continue home to Earth</string>
 
