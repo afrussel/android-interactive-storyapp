@@ -66,8 +66,15 @@ public class StoryActivity extends AppCompatActivity {
         if(page.isFinalPage()) {
             //hide choice 1
             choice1Button.setVisibility(View.INVISIBLE);
-            choice2Button.setText("Play Again!!");
             //reset text for choice 2
+            choice2Button.setText("Play Again!!");
+            //finish();
+            choice2Button.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    finish();
+                }
+            });
         } else {
             loadButtons(page);
         }
