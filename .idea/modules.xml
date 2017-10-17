@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NewInteractiveStory.iml" filepath="$PROJECT_DIR$/NewInteractiveStory.iml" />
+      <module fileurl="file://F:\Android\android-interactive-storyapp\NewInteractiveStory.iml" filepath="F:\Android\android-interactive-storyapp\NewInteractiveStory.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-interactive-storyapp.iml" filepath="$PROJECT_DIR$/android-interactive-storyapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
